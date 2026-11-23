@@ -1,3 +1,10 @@
 .DS_Store
 .idea/
 anaconda_projects
+data/processed/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.ruff_cache/
+notebooks/04_monte_carlo_validation.ipynb
